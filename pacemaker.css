@@ -1,0 +1,96 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h3{
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+/* header */
+
+h1{
+    text-align: center;
+    margin-top: auto;
+}
+.pace{
+    float: left;
+    padding:0 30px 0 50px;
+}
+.titlepara{
+    font-size: 1.7rem;
+    margin-right: 15px;
+}
+
+
+
+/* section */
+
+
+
+/* anatomy */
+
+
+.anotomy-head{
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+
+
+
+.pacemaker-image{
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+
+
+
+/* working */
+
+.working-head{
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+
+.working-para{
+    margin: 10px;
+    font-size: 1.6rem;
+}
+
+
+
+.workvideo{
+    float: right;
+    max-width: 50%;
+    height: 300px;
+}
+
+/* Types */
+
+.type{
+    margin-top: 150px;
+}
+
+.typeimage{
+
+    margin-left: 500px;
+}
+.typediv{
+    float:right;
+}
+
+
+
+.signlit{
+    list-style: circle;
+}
